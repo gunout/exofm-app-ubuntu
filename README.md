@@ -27,24 +27,10 @@
 
 ## 📸 Aperçu
 
-```
-┌──────────────────────────────────────────────┐
-│  EXOFM       [SITES]              – □ × ⌃   │
-│  by gleaphe                                  │
-│  ┌────────────────────────────────────────┐  │
-│  │                                        │  │
-│  │            EXO FM TV                   │  │
-│  │          ▶ TV EN DIRECT                │  │
-│  │                                        │  │
-│  │  ▂▃▅▇▅▃▂▃▅▇▅▃▂▃▅▇▅▃▂▃▅▇▅▃▂▃▅▇▅▃▂       │  │
-│  │  ⏸  ■  EN DIRECT   🔊 ──●──  ⌄      │  │
-│  └────────────────────────────────────────┘  │
-│  STATIONS EXOFM                              │
-│  ▸ EXO FM                                    │
-│  ▸ EXO FM TV                                 │
-│  PRÊT                                        │
-└──────────────────────────────────────────────┘
-```
+<img width="380" height="380" alt="exo 4" src="https://github.com/user-attachments/assets/badc3c6b-eb24-434f-890c-e798b9df27e7" />
+<img width="520" height="480" alt="exo 2" src="https://github.com/user-attachments/assets/d5c92194-c14c-4059-9c92-fc2e0baa9b0b" />
+<img width="520" height="480" alt="exo " src="https://github.com/user-attachments/assets/f5f8b9c4-7acf-4a08-8a5f-aed15ebcf9cf" />
+<img width="520" height="70" alt="exo 3" src="https://github.com/user-attachments/assets/7cef7758-2333-4333-9fa9-9acb0faec2b1" />
 
 ---
 
